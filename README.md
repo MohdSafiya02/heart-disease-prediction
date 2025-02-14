@@ -71,8 +71,8 @@ The following models were trained and evaluated:
 
 ## 📑 Documentation
 
-- **[Project Report](docs/project_report.pdf)**
-- **[Presentation Slides](docs/presentation.pptx)**
+- **[Project Report](docs/heartdisease.pdf)**
+- **[Presentation Slides](docs/project.pptx)**
 
 ## 🚀 Getting Started
 
@@ -102,5 +102,3 @@ jupyter notebook heart-disease-prediction.ipynb
 - Address class imbalance in the dataset
 
 ---
-
-🛠️ **Maintainers:** Mohammad Safiya, Polamarasetti Aswini
